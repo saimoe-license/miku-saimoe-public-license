@@ -16,3 +16,9 @@
   0. Say "Miku saimoe".
   1. Then just DO WHAT THE FUCK YOU WANT TO.
 ```
+
+Use in your project:
+
+```shell
+wget -O LICENSE https://raw.githubusercontent.com/saimoe-license/miku-saimoe-public-license/master/license
+```
