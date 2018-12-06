@@ -21,4 +21,5 @@ Use in your project:
 
 ```shell
 wget -O LICENSE https://raw.githubusercontent.com/saimoe-license/miku-saimoe-public-license/master/license
+wget -O LICENSE https://git.geektr.cloud/geektr/miku-saimoe-public-license/raw/master/license
 ```
